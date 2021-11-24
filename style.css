@@ -1,0 +1,29 @@
+.heading{
+    color:darkslategray;
+    background-color:cadetblue;
+    font-family: 'Fruktur', cursive;
+    font-size: 30px;
+    width: 100%;
+
+    
+}
+.note{
+    color: rgb(57, 252, 177);
+    background-color: rgb(184, 20, 45);
+    font-family: 'Oswald', sans-serif;
+    font-size: medium;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom: 0;
+    background-color: lightgray;
+    color:chocolate ;
+    width: 100%;
+    text-align: center;
+}
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    background-color:aliceblue;
+    border: 5px solid blanchedalmond ;
+    border-radius: 20px;
+}
